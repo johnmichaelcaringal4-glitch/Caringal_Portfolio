@@ -1,0 +1,64 @@
+{
+  "name": "John Michael Caringal",
+  "role": "IT Student",
+  "tagline": "I build simple, useful, and user-friendly digital experiences.",
+  "location": "Calapan City, Oriental Mindoro, Philippines",
+  "email": "your.email@example.com",
+  "about": "I am an Information Technology student. I am continuously improving my skills by working on school activities and personal projects.",
+  "skills": [
+    {
+      "name": "Python",
+      "level": ""
+    },
+    {
+      "name": "HTML",
+      "level": ""
+    },
+    {
+      "name": "JavaScript",
+      "level": ""
+    },
+    {
+      "name": "CSS",
+      "level": ""
+    }
+  ],
+  "projects": [],
+  "certifications": [
+    {
+      "title": "Add Your Certification",
+      "issuer": "Issuing Organization",
+      "year": "2026"
+    },
+    {
+      "title": "Add Your Achievement",
+      "issuer": "School or Organization",
+      "year": "2026"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Student Project Member",
+      "organization": "Academic Projects",
+      "period": "2025 – Present",
+      "description": "Collaborate with classmates on information technology assignments and system concepts."
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Team Member",
+      "organization": "School Group Projects",
+      "description": "Contribute to planning, research, documentation, and task completion with team members."
+    }
+  ],
+  "socialLinks": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/yourusername"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/yourusername"
+    }
+  ]
+}
